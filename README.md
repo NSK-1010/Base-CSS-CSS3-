@@ -7,6 +7,7 @@
     text-algin: center;
     }
   </style>
+</head>
 <body>
 <p>ベースとなるCSSです。どんどんどうぞー♪<p>
 <h3>☆ライセンスについて<h3>
