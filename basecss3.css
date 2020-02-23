@@ -1,0 +1,27 @@
+こちらはGoogle Fontsを読み込んでいます。
+どんどんお使いください。
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700|Roboto:400,400i,700,700i&display=swap&subset=japanese');
+html body {
+font-style: "Roboto", "Noto Sans JP", sans-serif;
+}
+.card {
+width: 90%;
+border: 1px solid #dddddd;
+padding: 12px;
+}
+.menuber ul {
+padding: 5px;
+font-size: 16px;
+border-bottom: 1px solid #dddddd;
+}
+footer {
+background-color: #000000;
+color: #ffffff;
+}
+footer a {
+color: #ffffff;
+}
+h1 .page-title {
+border-top: 1px solid #dddddd;
+font-size: 250%;
+}
